@@ -1,2 +1,1 @@
-# Hello-World
-The first repository
+On April 19, I create my first reporitoy 
